@@ -24,6 +24,6 @@ An Excel dashboard project focused on sales performance analysis using KPIs, Piv
 - 🗂️ Category Slicer
   
 ## Preview
-[Dashboard Screenshot](Screenshot2026-05-23062054.png)
+[Dashboard Screenshot](https://github.com/Oladeji-Faruq/Sales_performance_data/blob/main/Screenshot%202026-05-23%20062054.png)
 
 > Click the image above to see a preview of the final dashboard.
